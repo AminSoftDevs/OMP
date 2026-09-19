@@ -1,0 +1,406 @@
+/* 
+ localized.strings
+ OMP_iOS
+ 
+ Created by soroush amini araste on 8/1/21.
+ 
+ */
+"tabBar.Account"                                            = "الحساب";
+"tabBar.Market"                                             = "السوق";
+"tabBar.Trade"                                              = "المعاملات";
+"tabBar.Wallet"                                             = "المحفظات";
+
+"keyboard.done"                                             = "تسجيل";
+"forgetPassword.email"                                      = "البرید الإلکترونی";
+"forgetPassword.submitButton"                               = "إرسال بريد إلكتروني مخصص للطوارئ";
+"forgetPassword.backToLogin"                                = "العودة إلى صفحة تسجيل الدخول";
+"forgetPassword.loginButton"                                = "تسجيل الدخول";
+"forgetPassword.navTitle"                                   = "نسیان کلمة المرور";
+"loginView.email"                                           = "البرید الإلکترونی";
+"loginView.password"                                        = "کلمة المرور";
+"loginView.loginButton"                                     = "تسجيل الدخول";
+"loginView.signupButton"                                    = "تسجیل الإسم";
+"loginView.forgetPassword"                                  = "نسیان کلمة المرور";
+
+
+//MARK: - UserInputView
+"UserInputView.email"                                       = "البرید الإلکترونی";
+"UserInputView.password"                                    = "کلمة المرور";
+"UserInputView.repeatPassword"                              = "تکرار کلمة المرور";
+"UserInputView.referralCode"                                = "أدخل رمز الإحالة الخاص بك";
+"UserInputView.mobile"                                      = "أدخل رقم الهاتف النقال لک";
+"UserInputView.name"                                        = "الإسم";
+"UserInputView.lastName"                                    = "إسم العائلة";
+"UserInputView.nationalID"                                  = "الرقم الوطنی";
+"UserInputView.landline"                                    = "رقم الهاتف الثابت";
+"UserInputView.postalCode"                                  = "الرقم البریدی";
+"UserInputView.currentPassword"                             = "كلمة المرور الحالي";
+"UserInputView.newPassword"                                 = "كلمة مرور جديدة";
+"UserInputView.repeatNewPassword"                           = "تکرار کلمة المرور الجديدة";
+//MARK: -  LandlinePhoneView
+"LandlinePhoneView.verificationCodeTitle"                   = "أدخل الکود المقروء فی التلیفون الذی تم التایید و التصدیق عله.";
+"LandlinePhoneView.landlineFieldCan'tBeEmpty"               = "رجاء أدخل رقم الهاتف لک بشکل صحیح";
+"LandlinePhoneView.success"                                 = "تم التایید و التصدیق علی رقم الهاتف لک.";
+"LandlinePhoneView.editNumber"                              = "إصلاح رقم الهاتف";
+"LandlinePhoneView.verificationCodeCan'tBeEmpty"            = "لا يمكن أن يكون رمز التحقق فارغًا";
+//MARK: - AddressPhoneView
+"AddressPhoneView.landlineVerificationNotComplete"          = "رقم الهاتف مطلوب";
+"AddressPhoneView.addressVerificationNotComplete"           = "العنوان مطلوب";
+"AddressPhoneView.waitForAddressVerification"               = "يرجى التحلي بالصبر";
+//MARK: - AddressVerificationView
+"AddressVerificationView.provinceTitle"                     = "المحافظة";
+"AddressVerificationView.stateTitle"                        = "المدینة";
+"AddressVerificationView.addressTitle"                      = "العنوان";
+"AddressVerificationView.billTitle"                         = "الإیصال الموثوق أو کتاب الإیجار(عقد الإیجار) أو وثیقة و مستند البیت";
+"AddressVerificationView.success"                           = "تم التایید و التصدیق علی المعلومات البریدیة لک بالنجاح.";
+"AddressVerificationView.provinceCheck"                     = "اختر مقاطعة إقامتك";
+"AddressVerificationView.stateCheck"                        = "اختر مدينة إقامتك";
+"AddressVerificationView.addressCheck"                      = "العنوان مطلوب";
+"AddressVerificationView.postalCodeCheck"                   = "الرمز البريدي مطلوب";
+"AddressVerificationView.billImageCheck"                    = "الإیصال الموثوق أو کتاب الإیجار(عقد الإیجار) أو وثیقة و مستند البیت";
+"AddressVerificationView.waitForAddressVerification"        = "قيد الانتظار...";
+//MARK: - SelfIdentityVerificationView
+"SelfIdentityVerificationView.identityImagePickerTitle"     = "انتخاب الصورة للتایید و التصدیق علی الهویّة";
+"SelfIdentityVerificationView.instructionText"              = "نص مكتوب بخط اليد:
+ أنا (اللقب) إلى القانون الوطني (القانون الوطني) أثناء دراسة قواعد استخدام خدمات OMPFINEX والموافقة عليها ، أتعهد بالالتزام بجميع الالتزامات الواردة فيه وفي حالة الانتهاك ، فإن جميع المسؤوليات القانونية والجنائية التي أتحملها نيابةً عني OMPFINEX والجهات الخارجية.\n \n
+ للمصادقة على موقع OMPFINEX
+  \n\nالاسم - التوقيع – التاريخ\n\n
+  يرجى إرسال صورة بطاقة الهوية بجانب وجهك مع كتابة بخط اليد بطريقة واضحة ومقروءة تمامًا ، تمامًا مثل الصورة النموذجية. لاحظ أنه لا يجب كتابة النص المكتوب بخط اليد. ولاحظ أيضًا أنه لا ينبغي تسجيل النص ومعلومات بطاقة الهوية بالعكس.";
+
+"SelfIdentityVerificationView.selfiRequired"                = "رجاء انتخب و أختر الصورة المطلوبة و المحدّدة";
+"SelfIdentityVerificationView.waitVerification"             = "قيد الانتظار...";
+//MARK: - FinalScreenIdentityVerificationView
+"FinalScreenIdentityVerificationView.success"               = "تمّ التایید و التصدیق علی هویّتک بالنجاح.";
+"FinalScreenIdentityVerificationView.backButton"            = "العودة إلی الصفحة الرئیسیة";
+//MARK: - SignupView
+"SignupView.signupButton"                                   = "تسجیل الإسم";
+"SignupView.loginButton"                                    = "تسجيل الدخول";
+"SignupView.licenseAgreementText"                           = "أتقبّل القوانین و الشروط";
+"SignupView.rules"                                          = "القوانین و الشروط";
+//MARK: - IdentityVerificationNoticeView
+"IdentityVerificationNoticeView.identityVerification"       = "تأیید الهویة و التصدیق علیها";
+"IdentityVerificationNoticeView.centralBankOrder"           = "للتداول في أسواق العملات الرقمية ، وفقًا للبنك المركزي ، يلزم المصادقة. تقدم بطلب للمصادقة عبر الرابط أدناه.";
+//MARK: - "IdentityInformationView"
+"IdentityInformationView.headerTitle"                       = "أدخل معلومات عن تعریف الهویة";
+"IdentityInformationView.genderTitle"                       = "الجنس";
+"IdentityInformationView.male"                              = "ال";
+"IdentityInformationView.female"                            = "المرأة";
+"IdentityInformationView.birthdayTitle"                     = "تاریخ الولادة";
+"IdentityInformationView.day"                               = "يوم";
+"IdentityInformationView.month"                             = "شهر";
+"IdentityInformationView.year"                              = "عام";
+"IdentityInformationView.uploadYourIdCard"                  = "تحمیل صورة البطاقة الوطنیة";
+"IdentityInformationView.continue"                          = "الإستمرار";
+
+"IdentityInformationView.bornDay"                           = "تاريخ الميلاد مطلوب";
+"IdentityInformationView.bornMonth"                         = "شهر الميلاد مطلوب";
+"IdentityInformationView.bornYear"                          = "سنة الميلاد مطلوبة";
+"IdentityInformationView.nameEmpty"                         = "مطلوب اسم";
+"IdentityInformationView.lastNameEmpty"                     = "إسم العائلة مطلوب";
+"IdentityInformationView.nationalCodeEmpty"                 = "رقم التعريف القومي (ID)";
+"IdentityInformationView.nationalCodeNotValid"              = "رقم التعريف القومي غير صالح";
+"IdentityInformationView.selectIdentityCardImage"           = "مطلوب صورة بطاقة الهوية الوطنية";
+//MARK: - AccountViewController
+"AccountViewController.identityVerification"                = "تأیید الهویة و التصدیق علیها";;
+"AccountViewController.account"                             = "الحساب";
+"AccountViewController.profile"                             = "الملف الشخصی";
+"AccountViewController.history"                             = "التاریخیة للمعاملات";
+"AccountViewController.setting"                             = "التنظیمات";
+"AccountViewController.security"                            = "الأمان";
+"AccountViewController.logout"                              = "الخروج";
+"AccountViewController.userGuid"                            = "مرشد";
+"AccountViewController.support"                             = "الدعم";
+"AccountViewController.language"                            = "لغة البرنامج";
+"AccountViewController.displayMode"                         = "حالة العرض";
+"AccountViewController.marketType"                          = "نوع السوق";
+"AccountViewController.realMarkert"                         = "السوق الحقیقی";
+"AccountViewController.demoMarket"                          = "السوق دمو";
+"AccountViewController.persian"                             = "الفارسية";
+"AccountViewController.english"                             = "إنجليزي";
+"AccountViewController.arabic"                              = "العربیه";
+"AccountViewController.themeLight"                          = "النیّر والمشرق";
+"AccountViewController.themeDark"                           = "المظلم";
+"AccountViewController.themeOMP"                            = "أو إم بی فینکس";
+"AccountViewController.referral"                            = "أعرض للأصدقاء";
+"AccountViewController.security"                            = "الأمان";
+
+//MARK: - ReferralViewController
+"ReferralViewController.createCodeTitleView"                = "بناء الکود الدعوة";
+"ReferralViewController.yourCodesTitleView"                 = "رمز الدعوة";
+"ReferralViewController.usersStatisticsTitleView"           = "قدمت إحصاءات المستخدم من قبلك";
+"ReferralViewController.referredByTitleView"                = "ممثلك";
+"ReferralViewController.referredDescription"                = "لقد تمت دعوتك إلى النظام من قبل أحد مستخدمي او إم بی فینکس. بدون أي تكلفة إضافية عليك ، سيتم تخصيص نسبة مئوية من رسوم معاملتك لمُحيلك.";
+"ReferralViewController.invitationCodeCreationDescription"  = "اضبط معدل التبرع لنفسك ولأصدقائك";
+"ReferralViewController.yourLinkTitleView"                  = "مجموع العمولات المحصلة";
+"ReferralViewController.noInvitationCode"                   = "رمز الدعوة غير متوفر ، يمكنك إنشاء رمز دعوة جديد لنفسك عن طريق إنشاء رمز الدعوة.";
+"ReferralViewController.enterReferralCode"                  = "أدخل رمز الإحالة الخاص بك";
+//MARK: - InvitationCodeCreationViewController
+"InvitationCodeCreationViewController.yourShareTitle"               = "حصتك :";
+"InvitationCodeCreationViewController.friendsShareTitle"            = "مشاركة الأصدقاء :";
+"InvitationCodeCreationViewController.createInvitationCodeButton"   = "بناء الکود الدعوة";
+//MARK: - ReferralStatsView
+"ReferralStatsView.numberOfFriendsTitle"                    = "عدد الأصدقاء";
+"ReferralStatsView.totalBenefitsTitle"                      = "مجموع العمولات المحصلة";
+"ReferralNoticeViewController.mainMessage"                  = "يمكنك دعوة أصدقائك إلى او إم بی فینکس باستخدام الرابط الخاص بك. حاليًا ، وفقًا لهذه الخطة ، سيتم دفع ما يصل إلى 30٪ من العمولة لجميع معاملات أولئك الذين قاموا بالتسجيل باستخدام الرابط الخاص بك. يمكنك أيضًا تخصيص جزء من هذا الربح للشخص المدعو عند إنشاء الرابط.";
+//MARK: - ReferralTableHeaderView
+"ReferralTableHeaderView.code"                              = "كود الدعوة";
+"ReferralTableHeaderView.link"                              = "رابط الدعوة";
+"ReferralTableHeaderView.you"                               = "أنت";
+"ReferralTableHeaderView.friend"                            = "اصحاب";
+"ReferralTableHeaderView.profit"                            = "تلقت اللجنة";
+//MARK: - GuideViewControllerViewModel
+"GuideViewControllerViewModel.contactUs"                    = "اتصل بنا";
+"GuideViewControllerViewModel.AboutUs"                      = "عنا";
+"GuideViewControllerViewModel.rules"                        = "الشروط و الاحکام";
+"GuideViewControllerViewModel.blogs"                        = "مدونة او إم بی فینکس";
+"GuideViewControllerViewModel.security"                     = "الأمان";
+"GuideViewControllerViewModel.demoMarket"                   = "السوق دمو";
+"GuideViewControllerViewModel.FAQ"                          = "أسئلة مكررة";
+"GuideViewControllerViewModel.fees"                         = "الرسوم";
+
+//MARK: - SecurityViewController
+"SecurityViewController.securityCode"                       = "الکود الحمایه";
+"SecurityViewController.activeID"                           = "معرف نشط";
+"SecurityViewController.entry&exit"                         = "القادمین و المغادرین";
+"SecurityViewController.securityOMP"                        = "امن او ام بی فینکس";
+"SecurityViewController.inactiveSwitch"                     = "غیرناشط";
+"SecurityViewController.activeSwitch"                       = "ناشط";
+"SecurityViewController.IP"                                 = "IP";
+"SecurityViewController.platform"                           = "منصهّ";
+"SecurityViewController.entry"                              = "دخول";
+"SecurityViewController.operation"                          = "العملية";
+"SecurityViewController.exit"                               = "مخرج";
+"SecurityViewController.inputSecurityCode"                  = "ادخل کلمهّ المرور";
+"SecurityViewController.edit"                               = "یحرر";
+"SecurityViewController.editSecurityCode"                   = "تحرير كلمة المرور";
+"SecurityViewController.forgottenPasswordCode"               = "نسيت رقمك السري؟";
+"SecurityViewController.acceptSecurityCodeDone"             = "العملية كانت ناجحة!";
+"SecurityViewController.correctSecurityCode"                = "كلمة المرور المدخلة غير صحيحة!";
+"SecurityViewController.enterNewPassword"                   = "أدخل كلمة مرور جديدة";
+"SecurityViewController.confirmOpenedAppLock"               = "في حالة الموافقة ، سيتم إلغاء قفل التطبيق وسيتم تسجيل خروجك من حسابك!";
+"SecurityViewController.entryWithAuthentication"            = "دخول بصمة أو التعرف على الوجه";
+
+//MARK: - AnnouncementViewController
+"AnnouncementViewController.navTitle"                       = "الإعلانات";
+//MARK: - TransactionHistoryViewController
+"TransactionHistoryViewController.navTitle"                 = "التاریخیة للمعاملات";
+//MARK: - ProfileViewController
+"ProfileViewController.navTitle"                            = "الملف الشخصی";
+//MARK: - EditPasswordViewController
+"EditPasswordViewController.navTitle"                       = "تحرير كلمة المرور";
+"EditPasswordViewController.changePassword"                 = "تغيير كلمة المرور";
+"EditPasswordViewController.currentCan'tBeEmpty"            = "لا يمكن ترك حقل كلمة المرور الحالية فارغًا";
+"EditPasswordViewController.newCan'tBeEmpty"                = "لا يمكن ترك حقل كلمة المرور الجديدة فارغًا";
+"EditPasswordViewController.repeatCan'tBeEmpty"             = "لا يمكن ترك حقل تأكيد كلمة المرور الجديد فارغًا";
+"EditPasswordViewController.oldAndNewAreNotSame"            = "كلمة المرور الجديدة وحقل التأكيد ليسا متطابقين";
+//MARK: - AccountNavigationBarView
+"AccountNavigationBarView.loginOrSignup"                    = "الدخول أو تسجیل الإسم";
+//MARK: - PersonalInfoCollectionViewCell
+"PersonalInfoCollectionViewCell.title"                      = "معلومات شخصية";
+"PersonalInfoCollectionViewCell.name"                       = "الاسم الأول";
+"PersonalInfoCollectionViewCell.lastName"                   = "اسم العائلة ";
+"PersonalInfoCollectionViewCell.mobile"                     = "رقم الهاتف النقال: ";
+//MARK: - AccountStateCollectionViewCell
+"AccountStateCollectionViewCell.title"                      = "حالة الحساب";
+"AccountStateCollectionViewCell.userLevel"                  = "مستوى المستخدم";
+"AccountStateCollectionViewCell.commission"                 = "رسوم التجارة";
+"AccountStateCollectionViewCell.monthTransactionValue"      = "الحجم الإجمالي في 30 يومًا";
+//MARK: - Profile collectionView
+"EditPasswordCollectionViewCell.title"                      = "تحرير كلمة المرور";
+//MARK: - BankInformationCollectionViewCell
+"BankInformationCollectionViewCell.title"                   = "المعلومات البنکیة";
+"BankInformationCollectionViewCell.creditTitle"             = "البطاقات المصرفية";
+"BankInformationCollectionViewCell.bankAccountTitle"        = "بنك ايبان";
+"BankInformationCollectionViewCell.cardNumberWarn"          = "يجب أن يتكون رقم بطاقة الائتمان من 16 رقمً";
+"BankInformationCollectionViewCell.bankAccount"             = "يجب أن يتكون SHEBA (IBAN) من 24 رقمًا";
+"BankInformationCollectionViewCell.accountTitle"            = "حسابات بنكية";
+//MARK: - IdentityVerificationNavBar
+"IdentityVerificationNavBar.identityVerification"           = "تحقق";
+"IdentityVerificationNavBar.email"                          = "بريد الالكتروني";
+"IdentityVerificationNavBar.mobile"                         = "رقم الهاتف النقال";
+"IdentityVerificationNavBar.identity"                       = "معلومات شخصية";
+"IdentityVerificationNavBar.bankInformation"                = "المعلومات البنکیة";
+"IdentityVerificationNavBar.addressAndPhone"                = "العنوان و التلیفون";
+"IdentityVerificationNavBar.identityConfirmation"           = "تم التحقق";
+//MARK: - IdentityVerificationInputView
+"IdentityVerificationInputView.sendCode"                    = "إرسال الکود";
+"IdentityVerificationInputView.enterYourEmail"              = "أدخل عنوان بريدك الالكتروني";
+"IdentityVerificationInputView.sendVerificationCodeTitle"   = "الرجاء إدخال رمز التحقق الذي تم إرساله إلى عنوان بريدك الإلكتروني";
+"IdentityVerificationInputView.continue"                    = "يكمل";
+"IdentityVerificationInputView.enterMobileNumber"           = "أدخل رقم هاتفك المحمول";
+"IdentityVerificationInputView.sendMobileVerificationCode"  = "الرجاء إدخال رمز التحقق الذي تم إرساله إلى رقم هاتفك المحمول";
+"IdentityVerificationInputView.editMobileNumber"            = "قم بتحرير رقم الهاتف المحمول";
+"IdentityVerificationInputView.resendCode"                  = "إعادة إرسال";
+"IdentityVerificationInputView.verificationWillTakeTime"    = "التأیید و التصدیق علی هویتک تحت الدراسة و یمکن أن یطول و یستغرق دقیقة أو بضع دقائق";
+//MARK: - IdentityVerificationViewController
+"IdentityVerificationViewController.newCreditCardAdded"     = "تم حفظ بطاقة الائتمان بنجاح";
+"IdentityVerificationViewController.newBankAccount"         = "تم حفظ SHEBA (IBAN) بنجاح";
+//MARK: - BankInformationView
+"BankInformationView.continue"                              = "يكمل";
+"BankInformationView.oneCardAtLeast"                        = "إضافة بطاقة ائتمان واحدة أمر ضروري";
+"BankInformationView.oneAccountAtLeast"                     = "من الضروري إضافة SHEBA (IBAN)";
+"CreditCardNumberView.title"                                = "رقم البطاقة";
+//MARK: - AccountNumberView
+"AccountNumberView.title"                                   = "رقم الشبا";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.saveButtonTitle"          = "التخزین";
+"CreditCardsBankAccountsTableView.cardNumberWarn"           = "يجب أن يتكون رقم بطاقة الائتمان من 16 رقمًا";
+"CreditCardsBankAccountsTableView.bankAccount"              = "يجب أن يتكون SHEBA (IBAN) من 24 رقمًا";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.creditTitle"              = "رجاء أدخل رقم البطاقة المصرفیة لک،  یجب أن تکون هذه البطاقة بإسمک بالطبع، یمکن تودیع  المبالغ والنقود عن طریق البوابة البنکیة، من مبدأ البطاقات التی تم التصدیق علیها فقط.";
+"CreditCardsBankAccountsTableView.accountTitle"             = "رجاء أدخل رقم الشبا للحساب المصرفی لک علی الأقل، یجب أن یکون هذا الحساب بإسمک بالتأکید، یمکن سحب المبالغ و النقود علی حسب الریال للحسابات التی تم التصدیق علیها فقط.";
+//MARK: - Errors and Toasts
+"emailIsEmpty"                                                = "لا يمكن ترك حقل البريد الإلكتروني فارغًا";
+"emailValidation"                                             = "أدخل عنوان بريد إلكتروني صالح";
+"passwordLimit"                                               = "يجب أن تكون كلمة المرور 8 أحرف على الأقل";
+"passwordIsEmpty"                                             = "لا يمكن ترك حقل كلمة المرور فارغًا";
+"serverResponseError"                                         = "الخطأ فی الإتصال و الإرتباط بالخادم، رجاء اسع و حاول مرّة أخری";
+"passwordConfirmationError"                                   = "لیست کلمات المرور واحدة و متساویة";
+"repeatPasswordIsEmpty"                                       = "لا يمكن أن يكون حقل تكرار كلمة المرور فارغًا";
+"collectionView.empty"                                        = "لم يتم العثور على شيء";
+"noInternetConnection"                                        = "تأكد من أن اتصال الإنترنت نشط";
+//MARK: - Market
+"withdraw"                                                    = "برداشت";
+"deposit"                                                     = "الوديعة";
+"trade"                                                       = "المعاملات";
+
+"MarketNavBarView.proMarket"                                  = "المحترفین";
+"MarketNavBarView.mainMarket"                                 = "الأساسية";
+"MarketNavBarView.favorites"                                  = "المفضلة";
+
+"MarketNavBarView.ompFinex"                                   = "المعاملات ا إم بی فینکس";
+"MarketNavBarView.worldWide"                                  = "المعاملات العالمیة";
+
+"MarketCollectionView.dailyChange"                            = "24 ساعة التغيير";
+"MarketCollectionView.lastPrice"                              = "أحدث السعر";
+"MarketCollectionView.volume"                                 = "الحجم / العملة";
+
+//MARK: - Trade
+"TradeNavigationBarView.ordersHistoryButton"                  = "التاریخیهّ للطلبات";
+"MarketBriefViewController.navTitle"                          = "الاسواق";
+//MARK: - Order history
+"OrdersHistoryCollectionView.marketName"                      = "السوق";
+"OrdersHistoryCollectionView.totalPrice"                      = "السعرالعام";
+"OrdersHistoryCollectionView.status"                          = "المبلغ العام";
+"OrdersHistoryCollectionView.amount"                          = "الکمیة";
+"OrdersHistoryCollectionView.openOrders"                      = "الطلبات المفتوحهّ";
+
+"OrdersHistoryCollectionViewCell.cancel"                      = "الإبطال";
+//MARK: - Order
+"OrderStatus.canceled"                                        = "تم الإلغاء و الإبطال";
+"OrderStatus.completed"                                       = "تمّ بالنجاح";
+"OrderStatus.pending"                                         = "ريثما";
+"OrderStatus.canceling"                                       = "الإلغاء";
+"OrderStatus.undefined"                                       = "مجهول";
+
+//MARK: - OrdersSectionView
+"OrdersSectionView.limitOrder"                                = "الطلب المحدود";
+"OrdersSectionView.fastOrder"                                 = "الأسواق";
+"OrdersSectionView.available"                                 = "المتوفر";
+
+"Order.submitted"                                             = "تم تسجیل الطلب بالنجاح";
+
+//MARK: - Wallet
+"wallets"                                                     = "المحفظات";
+"WalletsViewController.totalProperty"                         = "قیمة المال";
+"WalletsViewController.equal"                                 = "ما یعادل";
+"WalletsCollectionView.hideEmptyWallets"                      = "إخفاء أرصدة الصفر";
+
+//MARK: - DepositViewController
+"walletAddressDescriptionLabel"                               = "یشاهد عنوان محفظة النقود و العملات لک فی الکادر کما یلی. یمکن لک أن تستخدم هذا العنوان لأجل تودیع العملات الصعبة الرقمیة إلی هذه المحفظة.";
+"walletBalance"                                               = "رصید محفظة \n\n النقود و العملات: ";
+"DepositOnRialWalletViewController.cautionDescription"        = "یجب أن تستخدم البطاقات المصرفیة بإسمک التی تم تسجیلها فی الملف الشخصی لک و تم التایید و التصدیق علیها لأجل تودیع المبالغ و النقود.";
+"DepositOnRialWalletViewController.chooseCreditCard"          = "ادخل البطاقهّ المصرفیهّ لک";
+"DepositOnRialWalletViewController.valueInRial"               = "المبلغ (التومان)";
+"DepositOnRialWalletViewController.advicesTextView"           = "قم بالزیادة علی رصید محفظة النقود و العملات الریالة لک عبرالبطاقات المصرفیة لعضو شبکة شتاب و أیضا عن طریق البوابة للدفع الإنترنتی.
+        اهتم بالنقاط الهامة عند الدفع کما یلی:‌اهتمّ بعنوان صفحة البوابة المصرفیة بالتأکید، و أدخل معلومات البطاقة المصرفیة لک بعد الوثوق بالحضور فی المواقع الإلکترونیة  لنظام شابرک.فی صفحة البوابة، اهتمّ بأن یکون المبلغ و الثمن الذی عرض، صحیحا بالتأکید.فی تعیین المبلغ و الثمن الذی تم تودیعه، اهتمّ بأنّه یکون مبلغ و ثمن المعاملة فی السوق أو إم بی فینکس، مئة ألف التومان علی الأقل.
+    ";
+"WalletBalanceHeaderView.balance"                             = "الرصید";
+"WalletBalanceDetailView.approximateBalance"                  = "القیمة التقریبیة";
+"WalletBalanceDetailView.inOrderBalance"                      = "فی الطلب";
+"DepositVerificationViewController.backToMainScreen"          = "العودة إلی الصفحة الرئیسیة";
+"WalletBalanceHeaderView.balance"                             = "الرصید";
+"WalletBalanceDetailView.approximateBalance"                  = "القیمة التقریبیة";
+"WalletBalanceDetailView.inOrderBalance"                      = "فی الطلب";
+
+//MARK: - DepositOnRialWalletViewModel
+"DepositOnRialWalletViewModel.amountMustNotBeEmpty"           = "حقل المبلغ";
+"Withdraw.warning"                                            = "یتم نقل کل الطلبات الی حسابک بشکل موثوق. رجاء اهتمّ بالزمان و الجدول الزمنی للدفع لنظام المصرفی الموثوق.";
+"Withdraw.accept"                                             = "تأیید السحب";
+"Withdraw.amountReceived"                                     = "الکمیة المستلمة";
+"Withdraw.wage"                                               = "الأجور";
+"Withdraw.valueWirhdraw"                                      = "المبلغ و الثمن للسحب(التومان)";
+"Withdraw.destinationAccount"                                 = "رقم حساب المقصد";
+"Withdraw.balance"                                            = "الرصید القابل للحسب";
+"Withdraw.rialWithdraw"                                       = "السحب الریالی";
+"Withdraw.acceptText"                                         = "رجاء، أدخل الکود المرسل عبر البرید الإلکترونی أو الرسالة القصیرة لأجل تایید السحب و التصدیق علیه";
+"Withdraw.acceptCode"                                         = "کود التأیید";
+"Withdraw.googleCode"                                         = "کود العاملین لجوجل (2FA)";
+"Withdraw.pleaseFillTheVerifyCode"                            = "رجاء، أدخل الکود الذی تم التایید و التصدیق علیه!";
+"Withdraw.pleaseFillTheWithdrawAmount"                        = "رجاء، أدخل المبلغ و الثمن!";
+"Withdraw.pleaseFillTheGoogleAuthCode"                        = "رجاء، أدخل کود العاملین لجوجل(2FA)";
+"Withdraw.withdrawValue"                                      = "میزان السحب";
+"Withdraw.withdrawableInventory"                              = "الرصید القابل السحب";
+"Withdraw.lowestWithdrawalRate"                               = "أقلّ میزان السحب:";
+"Withdraw.destinationWalletAddress"                           = "عنوان محفظة النقود و العملات للمقصد";
+"Withdraw.uncorrectAddress"                                   = "یمکن أن یؤدّی إدخال العنوان الخطاء و غیرالصحیح إلی زوال المصادر المالیة لک!";
+"Withdraw.descriptionWithdrawDigitalCurrency"                 = "عند الرغبة فی سحب و أخذ رصید محفظة النقود و العملات لک، قم بتسجیل طلبک فی هنا.  یتمّ التایید و التصدیق علی الطلبات بشکل یدویّ و ثم تدفع.تنقص و تخفّف الأجور العادیة للإنتقال من خلال السحب اذا کان عنوان المقصد مرتبطا و متعلقا بمستخدمی أو إم بی فینکس، فتمّ الإنتقال بشکل مباشر و آنیّ و یکون الأجر صفرا.
+        ";
+"Withdraw.transferFee"                                        = "أجر الإنتقال";
+"Withdraw.descriptionTransferFee"                             = "أجر الإنتقال یرتبط إلی تسجیل المعاملة فی شبکة بایننس کوین و لیس أو إم بی فینکس فیه ذی نفع و مصلحة.";
+"Withdraw.createRequestWithdraw"                              = "إیجاد طلب السحب";
+"Withdraw.tagOrMemo"                                          = "ممو/تک";
+"Withdraw.activeTag"                                          = "ناشط";
+"Withdraw.notActiveTag"                                       = "غیرناشط";
+"Withdraw.descriptionTag"                                     = "بالإضافة إلی العنوان، تکون الحاجة إلی إدخال تک أو ممو منتج لک ایضا.";
+"Withdraw.pleaseFillWithdrawValue"                            = "رجاء أدخل کمیة و مبلغ السحب!";
+"Withdraw.pleaseFillAddressWallet"                            = "الرجاء إدخال عنوان المحفظة الوجهة";
+"Withdraw.pleaseFillTag"                                      = "رجاء أدخل ممو/ تک لمحفظة النقود و العملات للمقصد!";
+//MARK: - DepositHistory
+"DepositHistory.successful"                                   = "الناجح";
+"DepositHistory.unsuccessful"                                 = "غیرالناجح";
+//MARK: - WithdrawHistory
+"WithdrawHistory.titleNavigation"                             = "اللمحة التاریخیة للسحب";
+"WithdrawHistory.processing"                                  = "قید الإنجاز";
+"WithdrawHistory.pending"                                     = "قيد الانتظار";
+//MARK: - JailbrokenViewController
+"JailbrokenViewController.appWillTerminate"                   = "لا يمكن تشغيل هذا التطبيق على أجهزة 'Jail Broken'";
+//MARK: - Constants
+"continue"              = "الإستمرار";
+"confirm"               = "التأیید";
+"chooseOne"             = "يختار";
+"confirmed"             = "وافقت";
+"rejected"              = "باءت بالفشل";
+"pending"               = "قيد الانتظار";
+"notStarted"            = "لم يبدأ";
+"undefined"             = "غير معرف";
+"buy"                   = "الإشتراء";
+"sell"                  = "البیع";
+"amount"                = "الکمیة";
+"unitPrice"             = "السعر";
+"total"                 = "المجموع";
+"search"                = "بحث";
+"deposit"               = "التودیع";
+"withdraw"              = "السحب";
+"dollar"                = "دولار";
+"save"                  = "يحفظ";
+"savedToClipboard"      = "تم الحفظ في الحافظة";
+"asRial"                = "الريال";
+"transferToBank"        = "الإنتقال إلی البوابة المصرفیة";
+"successfulTransaction" = "المعاملة الناجحة";
+"failedTransaction"     = "المعاملة غیرالناجحة!";
+"history"               = "تاريخ";
+"toman"                 = "التومان";
+"coming soon"           = "قريبا";
+"ok"                    = "طیّب";
+//MARK: - NETWORK ERRORS
+"badRequest"            = "Bad Request";
+"unableToDecode"        = "Data Corrupted";
+"internalServerError"   = "Internal Server Error Retry Later";
+"unauthorized"          = "Unauthorized Access";
+"requestBuildFailed"    = "Bad Request";
+"noInternetConnection"  = "Check Your Internet Connection";
+
+//MARK: - Change Language View Controller
+"ChangeLanguageViewController.titleLabel"                     = "حدد اللغة المطلوبة";
+"ChangeLanguageViewController.SelectingLanguageButton"        = "اختيار اللغة";

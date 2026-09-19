@@ -1,0 +1,402 @@
+/* 
+ localized.strings
+ OMP_iOS
+ 
+ Created by soroush amini araste on 8/1/21.
+ 
+ */
+"tabBar.Account"                                            = "Account";
+"tabBar.Market"                                             = "Market";
+"tabBar.Trade"                                              = "Trades";
+"tabBar.Wallet"                                             = "Wallets";
+
+"keyboard.done"                                             = "Done";
+"forgetPassword.email"                                      = "Email";
+"forgetPassword.submitButton"                               = "Send recovery email";
+"forgetPassword.backToLogin"                                = "Return to the login page";
+"forgetPassword.loginButton"                                = "login";
+"forgetPassword.navTitle"                                   = "Forget password";
+"loginView.email"                                           = "Email";
+"loginView.password"                                        = "Password";
+"loginView.loginButton"                                     = "Login";
+"loginView.signupButton"                                    = "Register";
+"loginView.forgetPassword"                                  = "Forget password";
+
+
+//MARK: - UserInputView
+"UserInputView.email"                                       = "Email";
+"UserInputView.password"                                    = "Password";
+"UserInputView.repeatPassword"                              = "Repeat password";
+"UserInputView.referralCode"                                = "Referral code";
+"UserInputView.mobile"                                      = "Enter your mobile number";
+"UserInputView.name"                                        = "First name";
+"UserInputView.lastName"                                    = "Last name";
+"UserInputView.nationalID"                                  = "National identification number (ID)";
+"UserInputView.landline"                                    = "Phone number";
+"UserInputView.postalCode"                                  = "Postal code";
+"UserInputView.currentPassword"                             = "Current password";
+"UserInputView.newPassword"                                 = "New password";
+"UserInputView.repeatNewPassword"                           = "Repeat new password";
+//MARK: -  LandlinePhoneView
+"LandlinePhoneView.verificationCodeTitle"                   = "Enter the code that was sent to your phone.";
+"LandlinePhoneView.landlineFieldCan'tBeEmpty"               = "Phone number cant be empty";
+"LandlinePhoneView.success"                                 = "Your phone number verified";
+"LandlinePhoneView.editNumber"                              = "Edit phone number";
+"LandlinePhoneView.verificationCodeCan'tBeEmpty"            = "Verification code can't be empty";
+//MARK: - AddressPhoneView
+"AddressPhoneView.landlineVerificationNotComplete"          = "Phone number is required";
+"AddressPhoneView.addressVerificationNotComplete"           = "Address is required";
+"AddressPhoneView.waitForAddressVerification"               = "Please be patient";
+//MARK: - AddressVerificationView
+"AddressVerificationView.provinceTitle"                     = "Province";
+"AddressVerificationView.stateTitle"                        = "City";
+"AddressVerificationView.addressTitle"                      = "Address";
+"AddressVerificationView.billTitle"                         = "Valid bill or rental contract or title deed";
+"AddressVerificationView.success"                           = "Postal information verification success";
+"AddressVerificationView.provinceCheck"                     = "Choose your province of residence";
+"AddressVerificationView.stateCheck"                        = "Choose your city of residence";
+"AddressVerificationView.addressCheck"                      = "Address is required";
+"AddressVerificationView.postalCodeCheck"                   = "Postal code is required";
+"AddressVerificationView.billImageCheck"                    = "Valid bill or rental contract or title deed";
+"AddressVerificationView.waitForAddressVerification"        = "Pending...";
+//MARK: - SelfIdentityVerificationView
+"SelfIdentityVerificationView.identityImagePickerTitle"     = "Choose the verification image";
+"SelfIdentityVerificationView.instructionText"              = "Handwritten text:
+I (surname) to the national code (national code) while studying and approving the rules of using OMPFINEX services, I undertake to abide by all the obligations contained in it and in case of violation, all legal and criminal responsibilities I take it on behalf of OMPFINEX and third parties.
+        \n\n For authentication on the OMPFINEX site\n\n
+Name - Signature - Date\n\n
+Please send the image of the ID card next to your face along with a handwriting in a completely legible and clear way, just like the sample picture. Note that the handwritten text should not be typed. And also note that the text and ID card information should not be recorded in reverse.";
+"SelfIdentityVerificationView.selfiRequired"                = "Please select the desired photo";
+"SelfIdentityVerificationView.waitVerification"             = "Pending...";
+//MARK: - FinalScreenIdentityVerificationView
+"FinalScreenIdentityVerificationView.success"               = "Verification success";
+"FinalScreenIdentityVerificationView.backButton"            = "Back to home page";
+//MARK: - SignupView
+"SignupView.signupButton"                                   = "signup";
+"SignupView.loginButton"                                    = "login";
+"SignupView.licenseAgreementText"                           = "I agree terms of service";
+"SignupView.rules"                                          = "terms of service";
+//MARK: - IdentityVerificationNoticeView
+"IdentityVerificationNoticeView.identityVerification"       = "authentication";
+"IdentityVerificationNoticeView.centralBankOrder"           = "To trade in digital currency markets, according to the Central Bank, authentication is required. Apply for authentication through the following link.";
+//MARK: - "IdentityInformationView"
+"IdentityInformationView.headerTitle"                       = "Enter your ID";
+"IdentityInformationView.genderTitle"                       = "Gender";
+"IdentityInformationView.male"                              = "Man";
+"IdentityInformationView.female"                            = "Woman";
+"IdentityInformationView.birthdayTitle"                     = "Date of birth";
+"IdentityInformationView.day"                               = "Day";
+"IdentityInformationView.month"                             = "Month";
+"IdentityInformationView.year"                              = "Year";
+"IdentityInformationView.uploadYourIdCard"                  = "Upload your ID card image";
+"IdentityInformationView.continue"                          = "Continue";
+
+"IdentityInformationView.bornDay"                           = "Birth date is required";
+"IdentityInformationView.bornMonth"                         = "Birth month is required";
+"IdentityInformationView.bornYear"                          = "Birth year is required";
+"IdentityInformationView.nameEmpty"                         = "name is required";
+"IdentityInformationView.lastNameEmpty"                     = "last name is required";
+"IdentityInformationView.nationalCodeEmpty"                 = "National identification number (ID)";
+"IdentityInformationView.nationalCodeNotValid"              = "National identification number is not valid";
+"IdentityInformationView.selectIdentityCardImage"           = "National identification card image is required";
+//MARK: - AccountViewController
+"AccountViewController.identityVerification"                = "Authentication";
+"AccountViewController.account"                             = "Account";
+"AccountViewController.profile"                             = "Profile";
+"AccountViewController.history"                             = "Transaction history";
+"AccountViewController.setting"                             = "Settings";
+"AccountViewController.security"                            = "Security";
+"AccountViewController.logout"                              = "Logout";
+"AccountViewController.userGuid"                            = "Guide";
+"AccountViewController.support"                            = "Support";
+"AccountViewController.language"                            = "Language";
+"AccountViewController.displayMode"                         = "Theme";
+"AccountViewController.marketType"                          = "Market mode";
+"AccountViewController.realMarkert"                         = "Real market";
+"AccountViewController.demoMarket"                          = "Demo market";
+"AccountViewController.persian"                             = "Farsi";
+"AccountViewController.english"                             = "English";
+"AccountViewController.arabic"                              = "Arabic";
+"AccountViewController.themeLight"                          = "Light";
+"AccountViewController.themeDark"                           = "Dark";
+"AccountViewController.themeOMP"                            = "Omp Finex";
+"AccountViewController.referral"                            = "Share friends";
+//MARK: - ReferralViewController
+"ReferralViewController.createCodeTitleView"                = "Create invitation code";
+"ReferralViewController.yourCodesTitleView"                 = "Your Invite Code";
+"ReferralViewController.usersStatisticsTitleView"           = "User statistics introduced by you";
+"ReferralViewController.referredByTitleView"                = "Referral Code";
+"ReferralViewController.referredDescription"                = "You have been invited to the system by one of the OMPFinex users. At no extra cost to you, a percentage of your transaction fee will be allocated to your referrer.";
+"ReferralViewController.invitationCodeCreationDescription"  = "Adjust the donation rate of yourself and your friends";
+"ReferralViewController.yourLinkTitleView"                  = "Your Invite Link";
+"ReferralViewController.noInvitationCode"                   = "No invitation code, you can make the invitation code to create your invite code.";
+"ReferralViewController.enterReferralCode"                  = "Enter your referral code";
+//MARK: - InvitationCodeCreationViewController
+"InvitationCodeCreationViewController.yourShareTitle"               = "Your share :";
+"InvitationCodeCreationViewController.friendsShareTitle"            = "Friend's share";
+"InvitationCodeCreationViewController.createInvitationCodeButton"   = "Create invitation code";
+//MARK: - ReferralStatsView
+"ReferralStatsView.numberOfFriendsTitle"                    = "Number of friends";
+"ReferralStatsView.totalBenefitsTitle"                      = "Total fees received";
+"ReferralNoticeViewController.mainMessage"                  = "You can invite your friends to OMP Phoenix with your own link. Currently, according to this plan, up to 30% of the commission will be paid to all transactions of those who have registered with your link. You can also dedicate part of this profit to the invited person when creating the link.";
+//MARK: - ReferralTableHeaderView
+"ReferralTableHeaderView.code"                              = "Invitation Code";
+"ReferralTableHeaderView.link"                              = "Invitation link";
+"ReferralTableHeaderView.you"                               = "You";
+"ReferralTableHeaderView.friend"                            = "Friends";
+"ReferralTableHeaderView.profit"                            = "Fee receive";
+"AccountViewController.security"                            = "Security";
+//MARK: - GuideViewControllerViewModel
+"GuideViewControllerViewModel.contactUs"                    = "Contact us";
+"GuideViewControllerViewModel.AboutUs"                      = "About us";
+"GuideViewControllerViewModel.rules"                        = "Rules";
+"GuideViewControllerViewModel.blogs"                        = "OMP Blogs";
+"GuideViewControllerViewModel.security"                     = "Security";
+"GuideViewControllerViewModel.demoMarket"                   = "Demo Market";
+"GuideViewControllerViewModel.FAQ"                          = "Frequently asked questions";
+"GuideViewControllerViewModel.fees"                         = "Fees";
+
+//MARK: - SecurityViewController
+"SecurityViewController.securityCode"                       = "Secure Code";
+"SecurityViewController.activeID"                           = "Active sessions";
+"SecurityViewController.entry&exit"                         = "Sign In and Log Out";
+"SecurityViewController.securityOMP"                        = "OMP Finex security";
+"SecurityViewController.inactiveSwitch"                     = "Inactive";
+"SecurityViewController.activeSwitch"                       = "Active";
+"SecurityViewController.IP"                                 = "IP";
+"SecurityViewController.platform"                           = "Platform";
+"SecurityViewController.entry"                              = "Entry";
+"SecurityViewController.operation"                          = "Operation";
+"SecurityViewController.exit"                               = "Exit";
+"SecurityViewController.inputSecurityCode"                  = "Enter your password";
+"SecurityViewController.edit"                               = "Edit";
+"SecurityViewController.editSecurityCode"                   = "Edit password";
+"SecurityViewController.forgottenPasswordCode"              = "Forgot your password?";
+"SecurityViewController.acceptSecurityCodeDone"             = "Operation successfully!";
+"SecurityViewController.correctSecurityCode"                = "The password entered incorrect!";
+"SecurityViewController.enterNewPassword"                   = "Enter new password";
+"SecurityViewController.confirmOpenedAppLock"               = "if approved, the app will be unlocked and you will be logged out of your account!";
+"SecurityViewController.entryWithAuthentication"            = "Entry with fingerprint or facial recognition";
+
+//MARK: - AnnouncementViewController
+"AnnouncementViewController.navTitle"                       = "Notification";
+//MARK: - TransactionHistoryViewController
+"TransactionHistoryViewController.navTitle"                 = "Transaction history";
+//MARK: - ProfileViewController
+"ProfileViewController.navTitle"                            = "Profile";
+//MARK: - EditPasswordViewController
+"EditPasswordViewController.navTitle"                       = "Edit password";
+"EditPasswordViewController.changePassword"                 = "Change new password";
+"EditPasswordViewController.currentCan'tBeEmpty"            = "Current password field can't be empty";
+"EditPasswordViewController.newCan'tBeEmpty"                = "New password field can't be empty";
+"EditPasswordViewController.repeatCan'tBeEmpty"             = "New password confirm field can't be empty";
+"EditPasswordViewController.oldAndNewAreNotSame"            = "New password and confirm field are not same";
+//MARK: - AccountNavigationBarView
+"AccountNavigationBarView.loginOrSignup"                    = "Login or register";
+//MARK: - PersonalInfoCollectionViewCell
+"PersonalInfoCollectionViewCell.title"                      = "Personal Information";
+"PersonalInfoCollectionViewCell.name"                       = "First name";
+"PersonalInfoCollectionViewCell.lastName"                   = "Last name";
+"PersonalInfoCollectionViewCell.mobile"                     = "Mobile number";
+//MARK: - AccountStateCollectionViewCell
+"AccountStateCollectionViewCell.title"                      = "Account status";
+"AccountStateCollectionViewCell.userLevel"                  = "User level";
+"AccountStateCollectionViewCell.commission"                 = "Trade fee";
+"AccountStateCollectionViewCell.monthTransactionValue"      = "Total volume in 30 days";
+//MARK: - Profile collectionView
+"EditPasswordCollectionViewCell.title"                      = "Edit password";
+//MARK: - BankInformationCollectionViewCell
+"BankInformationCollectionViewCell.title"                   = "Bank accout information";
+"BankInformationCollectionViewCell.creditTitle"             = "Bank cards";
+"BankInformationCollectionViewCell.bankAccountTitle"        = "Iban bank";
+"BankInformationCollectionViewCell.cardNumberWarn"          = "Credit card number must be 16 digits";
+"BankInformationCollectionViewCell.bankAccount"             = "SHEBA(IBAN) must be 24 digits";
+"BankInformationCollectionViewCell.accountTitle"            = "Iban bank";
+//MARK: - IdentityVerificationNavBar
+"IdentityVerificationNavBar.identityVerification"           = "Verification";
+"IdentityVerificationNavBar.email"                          = "Email";
+"IdentityVerificationNavBar.mobile"                         = "Mobile number";
+"IdentityVerificationNavBar.identity"                       = "Personal information";
+"IdentityVerificationNavBar.bankInformation"                = "Bank account information";
+"IdentityVerificationNavBar.addressAndPhone"                = "Address and phone number";
+"IdentityVerificationNavBar.identityConfirmation"           = "Verified";
+//MARK: - IdentityVerificationInputView
+"IdentityVerificationInputView.sendCode"                    = "Send code";
+"IdentityVerificationInputView.enterYourEmail"              = "Enter your email address";
+"IdentityVerificationInputView.sendVerificationCodeTitle"   = "Please enter the verification code that was send to your email address";
+"IdentityVerificationInputView.continue"                    = "Continue";
+"IdentityVerificationInputView.enterMobileNumber"           = "Enter your mobile number";
+"IdentityVerificationInputView.sendMobileVerificationCode"  = "Please enter the verification code that was send to your mobile number";
+"IdentityVerificationInputView.editMobileNumber"            = "Edit the mobile number";
+"IdentityVerificationInputView.resendCode"                  = "Resend";
+"IdentityVerificationInputView.verificationWillTakeTime"    = "Your identity verification is in progress, it may take a minute or so.";
+//MARK: - IdentityVerificationViewController
+"IdentityVerificationViewController.newCreditCardAdded"     = "Credit card saved successfully";
+"IdentityVerificationViewController.newBankAccount"         = "SHEBA(IBAN) saved successfully";
+//MARK: - BankInformationView
+"BankInformationView.continue"                              = "Continue";
+"BankInformationView.oneCardAtLeast"                        = "Adding one credit card is necessary";
+"BankInformationView.oneAccountAtLeast"                     = "Adding one SHEBA(IBAN) is necessary";
+//MARK: - CreditCardNumberView
+"CreditCardNumberView.title"                                = "Card number";
+//MARK: - AccountNumberView
+"AccountNumberView.title"                                   = "SHEBA(IBAN)";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.saveButtonTitle"          = "Save";
+"CreditCardsBankAccountsTableView.cardNumberWarn"           = "Credit card number must be 16 digits";
+"CreditCardsBankAccountsTableView.bankAccount"              = "SHEBA(IBAN) must be 24 digits";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.creditTitle"              = "Please enter at least one bank card number. This card must be in your own name. the deposit through payment gateway is only possible from the origin of the approved cards";
+"CreditCardsBankAccountsTableView.accountTitle"             = "Please enter your SHEBA number. This account must be in your own name. It is possible to request withdrawal in Rials only for accounts that have been approved.";
+//MARK: - Errors and Toasts
+"emailIsEmpty"                                                = "Email field can't be empty";
+"emailValidation"                                             = "Enter valid email address";
+"passwordLimit"                                               = "Password must be at least 8 characters";
+"passwordIsEmpty"                                             = "Password field cannot be empty";
+"serverResponseError"                                         = "Connection error, try again";
+"passwordConfirmationError"                                   = "Those passwords didn’t match";
+"repeatPasswordIsEmpty"                                       = "Repeat password field cannot be empty";
+"collectionView.empty"                                        = "No items found";
+"noInternetConnection"                                        = "Make sure internet connection is active";
+//MARK: - Market
+"withdraw"                                                    = "Withdraw";
+"deposit"                                                     = "Deposit";
+"trade"                                                       = "Trade";
+
+"MarketNavBarView.proMarket"                                  = "Professional";
+"MarketNavBarView.mainMarket"                                 = "Main";
+"MarketNavBarView.favorites"                                  = "Favorite";
+
+"MarketNavBarView.ompFinex"                                   = "OMPFinex transactions";
+"MarketNavBarView.worldWide"                                  = "International transactions";
+
+"MarketCollectionView.dailyChange"                            = "24h Change%";
+"MarketCollectionView.lastPrice"                              = "Last price";
+"MarketCollectionView.volume"                                 = "Volume/Currency";
+
+//MARK: - Trade
+"TradeNavigationBarView.ordersHistoryButton"                  = "Transaction history";
+"MarketBriefViewController.navTitle"                          = "Markets";
+//MARK: - Order history
+"OrdersHistoryCollectionView.marketName"                      = "Market";
+"OrdersHistoryCollectionView.totalPrice"                      = "Total price";
+"OrdersHistoryCollectionView.status"                          = "Successful";
+"OrdersHistoryCollectionView.amount"                          = "Amount";
+"OrdersHistoryCollectionView.openOrders"                      = "Open orders";
+
+"OrdersHistoryCollectionViewCell.cancel"                      = "Cancel";
+//MARK: - Order
+"OrderStatus.canceled"                                        = "Cancelled";
+"OrderStatus.completed"                                       = "Successful";
+"OrderStatus.pending"                                         = "Pending";
+"OrderStatus.canceling"                                       = "Cancelling";
+"OrderStatus.undefined"                                       = "Unknown";
+
+//MARK: - OrdersSectionView
+"OrdersSectionView.limitOrder"                                = "Limit";
+"OrdersSectionView.fastOrder"                                 = "Market";
+"OrdersSectionView.available"                                 = "Available";
+
+"Order.submitted"                                             = "Order successfully submitted";
+
+//MARK: - Wallet
+"wallets"                                                     = "Wallets";
+"WalletsViewController.totalProperty"                         = "Estimated balance";
+"WalletsViewController.equal"                                 = "Dollar value";
+"WalletsCollectionView.hideEmptyWallets"                      = "Hide small balances";
+
+//MARK: - DepositViewController
+"walletAddressDescriptionLabel"                               = "The address of your wallet can be seen in the box below. You can use this address to deposit cryptocurrencies to this wallet.";
+"walletBalance"                                               = "Wallet balance";
+"DepositOnRialWalletViewController.cautionDescription"        = "In order to deposit money, you must use bank cards in your own name which are registered and approved in your profile.";
+"DepositOnRialWalletViewController.chooseCreditCard"          = "Enter your card number";
+"DepositOnRialWalletViewController.valueInRial"               = "Price(Toman)";
+"DepositOnRialWalletViewController.advicesTextView"           = "In order to raise your credit ( Rial wallet), use approved iranian debit card and payment gateway.\nAttention :‌ before insert your debit card information, please check your payment gateway is approved by \"SHAPARAK\" protocol.correct amount of money.the amount should not be less than 100,000 Toman";
+"WalletBalanceHeaderView.balance"                             = "Available";
+"WalletBalanceDetailView.approximateBalance"                  = "Approximate value";
+"WalletBalanceDetailView.inOrderBalance"                      = "In order";
+"DepositVerificationViewController.backToMainScreen"          = "Back to home page";
+"WalletBalanceHeaderView.balance"                             = "Available";
+"WalletBalanceDetailView.approximateBalance"                  = "Approximate value";
+"WalletBalanceDetailView.inOrderBalance"                      = "In order";
+
+//MARK: - DepositOnRialWalletViewModel
+"DepositOnRialWalletViewModel.amountMustNotBeEmpty"           = "Amount field";
+"Withdraw.warning"                                            = "Attention: All of your withdrawal transections will be done based on the \"PAYA\" timeline and regulations";
+"Withdraw.accept"                                             = "Withdrawal confirmation";
+"Withdraw.amountReceived"                                     = "Receive amount";
+"Withdraw.wage"                                               = "fee";
+"Withdraw.valueWirhdraw"                                      = "Withdrawal amount(Toman)";
+"Withdraw.destinationAccount"                                 = "Destination bank account number";
+"Withdraw.balance"                                            = "Available";
+"Withdraw.rialWithdraw"                                       = "Rial withdrawal";
+"Withdraw.acceptText"                                         = "Please enter the code sent via email or SMS to confirm the withdrawal";
+"Withdraw.acceptCode"                                         = "Verification code";
+"Withdraw.googleCode"                                         = "Google authenticator code (2FA)";
+"Withdraw.pleaseFillTheVerifyCode"                            = "Please enter the confirmation code!";
+"Withdraw.pleaseFillTheWithdrawAmount"                        = "Please enter the price!";
+"Withdraw.pleaseFillTheGoogleAuthCode"                        = "Please enter google authenticator code (2FA)";
+"Withdraw.withdrawValue"                                      = "Withdrawal amount";
+"Withdraw.withdrawableInventory"                              = "Available";
+"Withdraw.lowestWithdrawalRate"                               = "Minimum withdrawal amount";
+"Withdraw.destinationWalletAddress"                           = "Destination wallet address";
+"Withdraw.uncorrectAddress"                                   = "Entering the wrong address may result in a loss of your funds!";
+"Withdraw.descriptionWithdrawDigitalCurrency"                 = "In order to withdraw from your wallet, register your request here. Requests will be approves manually and then paid.usual transaction fees will be deducted from the withdrawal if the destination address belongs to OMPFinex users, the transfer will be done directly and immediately and the fee will be zero.";
+"Withdraw.transferFee"                                        = "Transfer fee";
+"Withdraw.descriptionTransferFee"                             = "The transaction fee is related to binance coin network and OMPFinex is not a beneficiary in it.";
+"Withdraw.createRequestWithdraw"                              = "Withdrawal request";
+"Withdraw.tagOrMemo"                                          = "Tag\memo";
+"Withdraw.activeTag"                                          = "Active";
+"Withdraw.notActiveTag"                                       = "Inactive";
+"Withdraw.descriptionTag"                                     = "In addition to address, you need to enter a tag\memo";
+"Withdraw.pleaseFillWithdrawValue"                            = "Please enter the withdrawal amount!";
+"Withdraw.pleaseFillAddressWallet"                            = "Please enter the destination wallet address";
+"Withdraw.pleaseFillTag"                                      = "Please enter the destination wallet tag\memo!";
+//MARK: - DepositHistory
+"DepositHistory.successful"                                   = "Successful";
+"DepositHistory.unsuccessful"                                 = "Failed";
+//MARK: - WithdrawHistory
+"WithdrawHistory.titleNavigation"                             = "Withdrawal history";
+"WithdrawHistory.pending"                                     = "Pending";
+"WithdrawHistory.processing"                                  = "Processing";
+//MARK: - JailbrokenViewController
+"JailbrokenViewController.appWillTerminate"                   = "This app can't be run on 'Jail Broken' devices";
+//MARK: - Constants
+"continue"              = "Continue";
+"confirm"               = "Confirm";
+"chooseOne"             = "Choose";
+"confirmed"             = "Accepted";
+"rejected"              = "Rejected";
+"pending"               = "Pending";
+"notStarted"            = "Not Started";
+"undefined"             = "Undefined";
+"buy"                   = "Buy";
+"sell"                  = "Sell";
+"amount"                = "Amount";
+"unitPrice"             = "Price";
+"total"                 = "Total";
+"search"                = "Search";
+"deposit"               = "Deposit";
+"withdraw"              = "Withdraw";
+"dollar"                = " Dollar";
+"save"                  = "Save";
+"savedToClipboard"      = "Saved to clipboard";
+"asRial"                = "Rial";
+"transferToBank"        = "Payment gateway";
+"successfulTransaction" = "Transaction success!";
+"failedTransaction"     = "Transaction failed!";
+"history"               = "History";
+"toman"                 = " Toman";
+"coming soon"           = "coming soon";
+"ok"                    = "ok";
+//MARK: - NETWORK ERRORS
+"badRequest"            = "Bad Request";
+"unableToDecode"        = "Data Corrupted";
+"internalServerError"   = "Internal Server Error Retry Later";
+"unauthorized"          = "Unauthorized Access";
+"requestBuildFailed"    = "Bad Request";
+"noInternetConnection"  = "Check Your Internet Connection";
+
+//MARK: - Change Language View Controller
+"ChangeLanguageViewController.titleLabel"                  = "Choose your preferred language";
+"ChangeLanguageViewController.SelectingLanguageButton"     = "Selecting Language";

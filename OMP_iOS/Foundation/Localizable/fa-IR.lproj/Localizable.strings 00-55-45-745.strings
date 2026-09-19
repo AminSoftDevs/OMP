@@ -1,0 +1,417 @@
+/* 
+  localized.strings
+  OMP_iOS
+
+  Created by soroush amini araste on 8/1/21.
+  
+*/
+"tabBar.Account"                                            = "حساب";
+"tabBar.Market"                                             = "بازار";
+"tabBar.Trade"                                              = "معاملات";
+"tabBar.Wallet"                                             = "کیف‌ها";
+"keyboard.done"                                             = "ثبت";
+"forgetPassword.email"                                      = "ایمیل";
+"forgetPassword.submitButton"                               = "ارسال ایمیل بازیابی";
+"forgetPassword.backToLogin"                                = "بازگشت به صفحه ورود";
+"forgetPassword.loginButton"                                = "ورود";
+"forgetPassword.navTitle"                                   = "فراموشی کلمه عبور";
+"loginView.email"                                           = "ایمیل";
+"loginView.password"                                        = "کلمه عبور";
+"loginView.loginButton"                                     = "ورود";
+"loginView.signupButton"                                    = "ثبت نام";
+"loginView.forgetPassword"                                  = "فراموشی کلمه عبور";
+
+//MARK: - UserInputView
+"UserInputView.email"                                       = "ایمیل";
+"UserInputView.password"                                    = "کلمه عبور";
+"UserInputView.repeatPassword"                              = "تکرار کلمه عبور";
+"UserInputView.referralCode"                                = "کد دعوت(اختیاری)";
+"UserInputView.mobile"                                      = "موبایل خود را وارد کنید";
+"UserInputView.name"                                        = "نام";
+"UserInputView.lastName"                                    = "نام خانوادگی";
+"UserInputView.nationalID"                                  = "کد ملی";
+"UserInputView.landline"                                    = "شماره تلفن ثابت";
+"UserInputView.postalCode"                                  = "کد پستی";
+"UserInputView.currentPassword"                             = "کلمه عبور فعلی";
+"UserInputView.newPassword"                                 = "کلمه عبور جدید";
+"UserInputView.repeatNewPassword"                           = "تکرار کلمه عبور جدید";
+//MARK: -  LandlinePhoneView
+"LandlinePhoneView.verificationCodeTitle"                   = "کد اعلام شده را وارد کنید";
+"LandlinePhoneView.landlineFieldCan'tBeEmpty"               = "شماره تلفن ثابت خود را وارد کنید";
+"LandlinePhoneView.success"                                 = "شماره تلفن شما با موفقت احراز شد";
+"LandlinePhoneView.editNumber"                              = "اصلاح شماره تلفن";
+"LandlinePhoneView.verificationCodeCan'tBeEmpty"            = "وارد کردن کد اعلام شده به تلفن ثابت الزامی است";
+//MARK: - AddressPhoneView
+"AddressPhoneView.landlineVerificationNotComplete"          = "ثبت تلفن ثابت الزامی است";
+"AddressPhoneView.addressVerificationNotComplete"           = "ثبت آدرس محل سکونت الزامی است";
+"AddressPhoneView.waitForAddressVerification"               = "لطفا تا تایید اطلاعات صبور باشید";
+//MARK: - AddressVerificationView
+"AddressVerificationView.provinceTitle"                     = "استان";
+"AddressVerificationView.stateTitle"                        = "شهر";
+"AddressVerificationView.addressTitle"                      = "آدرس";
+"AddressVerificationView.billTitle"                         = "قبض معتبر یا اجاره نامه یا سند منزل";
+"AddressVerificationView.success"                           = "اطلاعات پستی شما با موفقیت تایید شده است";
+"AddressVerificationView.provinceCheck"                     = "استان محل سکونت خود را انتخاب کنید";
+"AddressVerificationView.stateCheck"                        = "شهر محل سکونت  خود را انتخاب کنید";
+"AddressVerificationView.addressCheck"                      = "وارد کردن آدرس الزامی است";
+"AddressVerificationView.postalCodeCheck"                   = "کدپستی خود را وارد کنید";
+"AddressVerificationView.billImageCheck"                    = "تصویر قبض معتبر یا اجاره نامه یا سند منزل الزامی است";
+"AddressVerificationView.waitForAddressVerification"        = "در حال بررسی اطلاعات پستی ...";
+//MARK: - SelfIdentityVerificationView
+"SelfIdentityVerificationView.identityImagePickerTitle"     = "انتخاب تصویر احراز هویت";
+"SelfIdentityVerificationView.instructionText"              = "اینجانب (نام نام خانوادگی) به کد ملی (کد ملی) ضمن مطالعه و تایید قوانین استفاده از خدمات او ام پی فینکس، متعهد می گردم که به کلیه ی تعهدات مندرج در آن پایبندم و در صورت تخلف، کلیه ی مسئولیت های حقوقی و کیفری آن را در قبال او ام پی فینکس و اشخاص ثالث، به عهده می گیرم.
+\n\n جهت احراز هویت در سایت او ام پی فینکس
+\n\n نام و نام خانوادگی امضا و تاریخ
+
+
+لطفا تصویر کارت ملی را در کنار چهره خودتان همراه با یک دست نوشته به صورت کاملا خوانا، درشت و واضح ، دقیقا مانند تصویر نمونه ، ارسال نمایید . دقت شود متن دست نوشته نبایستی تایپ شود. هم چنین توجه داشته باشید هنگام تهیه تصویر ، متن دست نوشته و اطلاعات کارت ملی به صورت برعکس و آینه ای ثبت نشود.";
+"SelfIdentityVerificationView.selfiRequired"                = "تصویری انتخاب نشده است";
+"SelfIdentityVerificationView.waitVerification"             = "تصویر ارسالی شما در حال بررسی است ...";
+//MARK: - FinalScreenIdentityVerificationView
+"FinalScreenIdentityVerificationView.success"               = "احراز هویت شما با موفقیت انجام شده است.";
+"FinalScreenIdentityVerificationView.backButton"            = "بازگشت به صفحه اصلی";
+//MARK: - SignupView
+"SignupView.signupButton"                                   = "ثبت نام";
+"SignupView.loginButton"                                    = "ورود";
+"SignupView.licenseAgreementText"                           = "قوانین و شرایط را می پذیرم";
+"SignupView.rules"                                          = "قوانین و شرایط";
+//MARK: - IdentityVerificationNoticeView
+"IdentityVerificationNoticeView.identityVerification"       = "احراز هویت";
+"IdentityVerificationNoticeView.centralBankOrder"           = "برای معامله در بازار های ارز دیجیتال طبق مصوبه بانک مرکزی، نیاز است که احراز هویت انجام شود. برای احراز هویت از طریق لینک زیر اقدام نمایید.";
+//MARK: - "IdentityInformationView"
+"IdentityInformationView.headerTitle"                       = "اطلاعات شناسایی خود‌ را وارد کنید";
+"IdentityInformationView.genderTitle"                       = "جنسیت";
+"IdentityInformationView.male"                              = "مرد";
+"IdentityInformationView.female"                            = "زن";
+"IdentityInformationView.birthdayTitle"                     = "تاریخ تولد";
+"IdentityInformationView.day"                               = "روز";
+"IdentityInformationView.month"                             = "ماه";
+"IdentityInformationView.year"                              = "سال";
+"IdentityInformationView.uploadYourIdCard"                  = "بارگذاری تصویر کارت ملی";
+"IdentityInformationView.continue"                          = "ادامه";
+
+"IdentityInformationView.bornDay"                           = "انتخاب روز تولد الزامی است";
+"IdentityInformationView.bornMonth"                         = "انتخاب ماه تولد الزامی است";
+"IdentityInformationView.bornYear"                          = "انتخاب سال تولد الزامی است";
+"IdentityInformationView.nameEmpty"                         = "نام نمی‌تواند خالی باشد";
+"IdentityInformationView.lastNameEmpty"                     = "نام خانوادگی نمی‌تواند خالی باشد";
+"IdentityInformationView.nationalCodeEmpty"                 = "شماره ملی نمی‌تواند خالی باشد";
+"IdentityInformationView.nationalCodeNotValid"              = "شماره ملی معتبر نیست";
+"IdentityInformationView.selectIdentityCardImage"           = "تصویر کارت ملی الزامی است";
+
+//MARK: - AccountViewController
+"AccountViewController.identityVerification"                = "احراز هویت";
+"AccountViewController.account"                             = "حساب";
+"AccountViewController.profile"                             = "پروفایل";
+"AccountViewController.history"                             = "تاریخچه تراکنش ها";
+"AccountViewController.setting"                             = "تنطیمات";
+"AccountViewController.security"                            = "امنیت";
+"AccountViewController.logout"                              = "خروج";
+"AccountViewController.userGuid"                            = "راهنما";
+"AccountViewController.support"                             = "پشتیبانی";
+"AccountViewController.language"                            = "زبان";
+"AccountViewController.displayMode"                         = "حالت نمایش";
+"AccountViewController.marketType"                          = "نوع بازار";
+"AccountViewController.realMarkert"                         = "بازار واقعی";
+"AccountViewController.demoMarket"                          = "بازار دمو";
+"AccountViewController.persian"                             = "فارسی";
+"AccountViewController.english"                             = "انگلیسی";
+"AccountViewController.arabic"                              = "عربی";
+"AccountViewController.themeLight"                          = "روشن";
+"AccountViewController.themeDark"                           = "تاریک";
+"AccountViewController.themeOMP"                            = "اوام پی فینکس";
+"AccountViewController.referral"                            = "معرفی به دوستان";
+"AccountViewController.security"                            = "امنیت";
+//MARK: - ReferralViewController
+"ReferralViewController.createCodeTitleView"                = "ساخت کد دعوت";
+"ReferralViewController.yourCodesTitleView"                 = "کد دعوت شما";
+"ReferralViewController.usersStatisticsTitleView"           = "آمارکاربران معرفی شده توسط شما";
+"ReferralViewController.referredByTitleView"                = "معرف شما";
+"ReferralViewController.referredDescription"                = "
+شما توسط یکی از کاربران او ام پی فینکس به سامانه دعوت شده‌اید. بدون هیچ هزینه‌ی اضافی برای شما، درصدی از کارمزد معاملات شما به معرف شما اختصاص می‌یابد.";
+"ReferralViewController.invitationCodeCreationDescription"  = "نرخ کارمزد اهدایی خود و دوستانتان را تنظیم کنید";
+"ReferralViewController.yourLinkTitleView"                  = "لینک دعوت شما";
+"ReferralViewController.noInvitationCode"                   = "کد دعوت موجود نیست، شما میتوانید از قسمت ساخت کد دعوت برای خود کد دعوت جدید ایجاد کنید.";
+"ReferralViewController.enterReferralCode"                  = "کد معرف خود را وارد کنید";
+//MARK: - InvitationCodeCreationViewController
+"InvitationCodeCreationViewController.yourShareTitle"               = "سهم شما :";
+"InvitationCodeCreationViewController.friendsShareTitle"            = "سهم دوستان :";
+"InvitationCodeCreationViewController.createInvitationCodeButton"   = "ساخت کد دعوت";
+//MARK: - ReferralStatsView
+"ReferralStatsView.numberOfFriendsTitle"                    = "تعداد دوستان";
+"ReferralStatsView.totalBenefitsTitle"                      = "مجموع کارمزد دریافتی";
+"ReferralNoticeViewController.mainMessage"                  = "شما میتوانید دوستان خود را با لینک اختصاصی خود به او ام پی فینکس دعوت کنید. درحال حاضر براساس این طرح، تا سقف 30% از کارمزد تمامی معاملات کسانی که با لینک شما ثبت نام کرده اند به شما پرداخت خواهد شد. همچنین میتوانید بخشی از این سود را در هنگام ایجاد لینک به فرد دعوت شده اختصاص دهید.";
+//MARK: - ReferralTableHeaderView
+"ReferralTableHeaderView.code"                              = "کد دعوت";
+"ReferralTableHeaderView.link"                              = "لینک دعوت";
+"ReferralTableHeaderView.you"                               = "شما";
+"ReferralTableHeaderView.friend"                            = "دوستان";
+"ReferralTableHeaderView.profit"                            = "کارمزد دریافتی";
+//MARK: - GuideViewControllerViewModel
+"GuideViewControllerViewModel.contactUs"                    = "تماس با ما";
+"GuideViewControllerViewModel.AboutUs"                      = "درباره ما";
+"GuideViewControllerViewModel.rules"                        = "قوانین و مقررات";
+"GuideViewControllerViewModel.blogs"                        = "وبلاگ او ام پی فینکس";
+"GuideViewControllerViewModel.security"                     = "امنیت";
+"GuideViewControllerViewModel.demoMarket"                   = "بازار دمو";
+"GuideViewControllerViewModel.FAQ"                          = "سوالات متداول";
+"GuideViewControllerViewModel.fees"                         = "کارمزدها";
+
+//MARK: - SecurityViewController
+"SecurityViewController.securityCode"                       = "کد امنیتی";
+"SecurityViewController.activeID"                           = "شناسه فعال";
+"SecurityViewController.entry&exit"                         = "ورود و خروج";
+"SecurityViewController.securityOMP"                        = "امنیت او ام پی فینکس";
+"SecurityViewController.inactiveSwitch"                     = "غیرفعال";
+"SecurityViewController.activeSwitch"                       = "فعال";
+"SecurityViewController.IP"                                 = "IP";
+"SecurityViewController.platform"                           = "پلتفرم";
+"SecurityViewController.entry"                              = "ورود";
+"SecurityViewController.operation"                          = "عملیات";
+"SecurityViewController.exit"                               = "خروج";
+"SecurityViewController.inputSecurityCode"                  = "رمز عبور خود را وارد کنید";
+"SecurityViewController.edit"                               = "ویرایش";
+"SecurityViewController.editSecurityCode"                   = "ویرایش کلمه عبور";
+"SecurityViewController.forgottenPasswordCode"              = "رمز عبور خود را فراموش کرده اید؟";
+"SecurityViewController.acceptSecurityCodeDone"             = "عملیات با موفقیت انجام شد!";
+"SecurityViewController.correctSecurityCode"                = "رمز وارد شده اشتباه می باشد!";
+"SecurityViewController.enterNewPassword"                   = "رمز عبور جدید خود را وارد نمایید";
+"SecurityViewController.confirmOpenedAppLock"               = "در صورت تایید قفل برنامه باز شده و از حساب کاربری خود خارج خواهید شد!";
+"SecurityViewController.entryWithAuthentication"            = "ورود با اثر انگشت یا تشخیص چهره";
+
+//MARK: - AnnouncementViewController
+"AnnouncementViewController.navTitle"                       = "اعلانات";
+//MARK: - TransactionHistoryViewController
+"TransactionHistoryViewController.navTitle"                 = "تاریخچه تراکنش ها";
+//MARK: - ProfileViewController
+"ProfileViewController.navTitle"                            = "پروفایل";
+//MARK: - EditPasswordViewController
+"EditPasswordViewController.navTitle"                       = "ویرایش کلمه عبور";
+"EditPasswordViewController.changePassword"                 = "تغییر کلمه عبور";
+"EditPasswordViewController.currentCan'tBeEmpty"            = "وارد کردن کلمه عبور فعلی الزامی است";
+"EditPasswordViewController.newCan'tBeEmpty"                = "وارد کردن کلمه عبور جدید الزامی است";
+"EditPasswordViewController.repeatCan'tBeEmpty"             = "وارد کردن تکرار کلمه عبور جدید الزامی است";
+"EditPasswordViewController.oldAndNewAreNotSame"            = "کلمه عبور جدید و تکرارش یکسان نیستند";
+//MARK: - AccountNavigationBarView
+"AccountNavigationBarView.loginOrSignup"                    = "ورود یا ثبت نام";
+//MARK: - PersonalInfoCollectionViewCell
+"PersonalInfoCollectionViewCell.title"                      = "اطلاعات شخصی";
+"PersonalInfoCollectionViewCell.name"                       = "نام";
+"PersonalInfoCollectionViewCell.lastName"                   = "نام خانوادگی";
+"PersonalInfoCollectionViewCell.mobile"                     = "شماره موبایل";
+//MARK: - AccountStateCollectionViewCell
+"AccountStateCollectionViewCell.title"                      = "وضعیت حساب کاربری";
+"AccountStateCollectionViewCell.userLevel"                  = "سطح کاربر";
+"AccountStateCollectionViewCell.commission"                 = "کارمزد معاملات";
+"AccountStateCollectionViewCell.monthTransactionValue"      = "ارزش معاملات ۳۰ روز";
+//MARK: - Profile collectionView
+"EditPasswordCollectionViewCell.title"                      = "ویرایش کلمه عبور";
+//MARK: - BankInformationCollectionViewCell
+"BankInformationCollectionViewCell.title"                   = "اطلاعات بانکی";
+"BankInformationCollectionViewCell.creditTitle"             = "کارت های بانکی";
+"BankInformationCollectionViewCell.bankAccountTitle"        = "حساب های بانکی";
+"BankInformationCollectionViewCell.cardNumberWarn"          = "شماره کارت باید ۱۶ رقم باشد";
+"BankInformationCollectionViewCell.bankAccount"             = "شماره شبا باید ۲۴ رقم باشد";
+"BankInformationCollectionViewCell.accountTitle"            = "حساب های بانکی";
+//MARK: - IdentityVerificationNavBar
+"IdentityVerificationNavBar.identityVerification"           = "احراز هویت";
+"IdentityVerificationNavBar.email"                          = "ایمیل";
+"IdentityVerificationNavBar.mobile"                         = "شماره موبایل";
+"IdentityVerificationNavBar.identity"                       = "اطلاعات شناسایی";
+"IdentityVerificationNavBar.bankInformation"                = "اطلاعات بانکی";
+"IdentityVerificationNavBar.addressAndPhone"                = "آدرس و تلفن";
+"IdentityVerificationNavBar.identityConfirmation"           = "تایید هویت";
+//MARK: - IdentityVerificationInputView
+"IdentityVerificationInputView.sendCode"                    = "ارسال کد";
+"IdentityVerificationInputView.enterYourEmail"              = "ایمیل خود را وارد کنید";
+"IdentityVerificationInputView.sendVerificationCodeTitle"   = "کدارسال شده به ایمیل را وارد کنید";
+"IdentityVerificationInputView.continue"                    = "ادامه";
+"IdentityVerificationInputView.enterMobileNumber"           = "شماره موبایل خود را وارد کنید";
+"IdentityVerificationInputView.sendMobileVerificationCode"  = "کد ارسال شده به موبایل را وارد کنید";
+"IdentityVerificationInputView.editMobileNumber"            = "اصلاح شماره موبایل";
+"IdentityVerificationInputView.resendCode"                  = "ارسال مجدد";
+"IdentityVerificationInputView.verificationWillTakeTime"    = "احراز هویت شما در این مرحله در حال بررسی است و ممکن است یک الی چند دقیقه به طول بیانجامد";
+//MARK: - IdentityVerificationViewController
+"IdentityVerificationViewController.newCreditCardAdded"     = "کارت با موفقیت ثبت شد";
+"IdentityVerificationViewController.newBankAccount"         = "شماره شبا با موفقیت ثبت شد";
+//MARK: - BankInformationView
+"BankInformationView.continue"                              = "ادامه";
+"BankInformationView.oneCardAtLeast"                        = "ثبت حداقل یک کارت بانکی الزامی است";
+"BankInformationView.oneAccountAtLeast"                     = "ثبت حداقل یک شماره شبا الزامی است";
+//MARK: - CreditCardNumberView
+"CreditCardNumberView.title"                                = "شماره کارت";
+//MARK: - AccountNumberView
+"AccountNumberView.title"                                   = "شماره شبا";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.saveButtonTitle"          = "ذخیره";
+"CreditCardsBankAccountsTableView.cardNumberWarn"           = "شماره کارت باید ۱۶ رقم باشد";
+"CreditCardsBankAccountsTableView.bankAccount"              = "شماره شبا باید ۲۴ رقم باشد";
+//MARK: - CreditCardsBankAccountsTableView
+"CreditCardsBankAccountsTableView.creditTitle"              = "لطفا حداقل یک کارت بانکی خود را وارد نمایید.این کارت حتما باید به نام خود شما باشد.امکان واریز وجه از طریق درگاه بانکی صرفااز مبدا کارت هایی که تایید شده باشند وجود خواهد داشت.";
+"CreditCardsBankAccountsTableView.accountTitle"             = "لطفا حداقل شماره شبای یک حساب بانکی خود را وارد نمایید.این حساب باید حتما به نام خود شما باشد.امکان درخواست برداشت وجه ریالی صرفا برای حساب هایی که تایید شده باشند وجود خواهد داشت.";
+//MARK: - Errors and Toasts
+"emailIsEmpty"                                              = "ایمیل نمی‌تواند خالی باشد";
+"emailValidation"                                           = "ایمیل معتبر وارد کنید";
+"passwordLimit"                                             = "کلمه عبور باید حداقل ۸ کارکتر داشته باشد!";
+"passwordIsEmpty"                                           = "کلمه عبور نمی‌تواند خالی باشد";
+"serverResponseError"                                       = "خطای ارتباط با سرور";
+"passwordConfirmationError"                                 = "کلمه عبور و تکرار آن یکسان نیستند";
+"repeatPasswordIsEmpty"                                     = "تکرار کلمه عبور نمی‌تواند خالی باشد";
+"collectionView.empty"                                      = "داده ای برای نمایش وجود ندارد";
+"noInternetConnection"                                      = "از اتصال به اینترنت اطمینان حاصل کنید";
+//MARK: - Market
+"withdraw"              = "برداشت";
+"deposit"               = "واریز";
+"trade"                 = "معامله";
+
+"MarketNavBarView.proMarket"                                  = "بازار حرفه‌ای";
+"MarketNavBarView.mainMarket"                                 = "بازار اصلی";
+"MarketNavBarView.favorites"                                  = "مورد علاقه";
+
+"MarketNavBarView.ompFinex"                                   = "معاملات او ام پی فینکس";
+"MarketNavBarView.worldWide"                                  = "معاملات جهانی";
+
+"MarketCollectionView.dailyChange"                            = "تغییر۲۴";
+"MarketCollectionView.lastPrice"                              = "آخرین قیمت";
+"MarketCollectionView.volume"                                 = "رمزارز/حجم";
+
+//MARK: - Trade
+"TradeNavigationBarView.ordersHistoryButton"                  = "تاریخچه سفارشات";
+"MarketBriefViewController.navTitle"                          = "بازارها";
+//MARK: - Order history
+"OrdersHistoryCollectionView.marketName"                      = "بازار";
+"OrdersHistoryCollectionView.totalPrice"                      = "مبلغ کل";
+"OrdersHistoryCollectionView.status"                          = "پرشده";
+"OrdersHistoryCollectionView.amount"                          = "مقدار";
+"OrdersHistoryCollectionView.openOrders"                      = "سفارشات باز";
+
+"OrdersHistoryCollectionViewCell.cancel"                      = "لغو";
+//MARK: - Order
+"OrderStatus.canceled"                                        =  "لغو شده";
+"OrderStatus.completed"                                       =  "انجام شده";
+"OrderStatus.pending"                                         =  "در حال انجام";
+"OrderStatus.canceling"                                       =  "در حال لغو";
+"OrderStatus.undefined"                                       =  "نامشخص";
+
+//MARK: - OrdersSectionView
+"OrdersSectionView.limitOrder"                                = "سفارش محدود";
+"OrdersSectionView.fastOrder"                                 = "سفارش سریع";
+"OrdersSectionView.available"                                 = "در دسترس";
+
+"Order.submitted"                                             = "سفارش شما با موفقیت ثبت شد";
+
+//MARK: - Wallet
+"wallets"                                                     = "کیف ها";
+"WalletsViewController.totalProperty"                         = "ارزش دارایی";
+"WalletsViewController.equal"                                 = "معادل";
+"WalletsCollectionView.hideEmptyWallets"                      = "مخفی کردن موجودی های صفر";
+
+//MARK: - DepositViewController
+"walletAddressDescriptionLabel"                               = "آدرس کیف پول شما در کادر زیر قابل مشاهده است. جهت واریز ارز‌های دیجیتال به این کیف، میتوانید از این آدرس استفاده نمایید.";
+"walletBalance"                                               = "اعتبار کیف پول";
+"DepositOnRialWalletViewController.cautionDescription"        = "جهت واریز وجه، حتما باید از کارت های بانکی به نام خودتان که در پروفایلتان ثبت و تایید شده است استفاده نمایید.";
+"DepositOnRialWalletViewController.chooseCreditCard"          = "کارت بانکی خود را انتخاب کنید";
+"DepositOnRialWalletViewController.valueInRial"               = "مبلغ (تومان)";
+"DepositOnRialWalletViewController.advicesTextView"           = "جهت افزایش اعتبار کیف پول ریالی خود با استفاده از کارت های بانکی عضو شتاب و از طریق درگاه پرداخت اینترنتی اقدام نمایید.در هنگام پرداخت به نکات زیر دقت نمایید:
+حتما به آدرس صفحه درگاه بانکی دقت نموده و تنها پس از اطمینان از حضور در سایت های سامانه شاپرک مشخصات کارت بانکی خود را وارد نمایید.در صفحه درگاه دقت کنید که حتما مبلغ نمایش داده شده درست باشد. در تعیین مبلغ واریز به این موضوع دقت نمایید که حداقل مبلغ معامله در بازار او ام پی فینکس یکصد هزار تومان است.";
+"WalletBalanceHeaderView.balance"                             = "موجودی";
+"WalletBalanceDetailView.approximateBalance"                  = "ارزش تقریبی";
+"WalletBalanceDetailView.inOrderBalance"                      = "در سفارش";
+"DepositVerificationViewController.backToMainScreen"          = "بازگشت به صفحه اصلی";
+"WalletBalanceHeaderView.balance"                             = "موجودی";
+"WalletBalanceDetailView.approximateBalance"                  = "ارزش تقریبی";
+"WalletBalanceDetailView.inOrderBalance"                      = "در سفارش";
+
+//MARK: - DepositOnRialWalletViewModel
+"DepositOnRialWalletViewModel.amountMustNotBeEmpty"           = "وارد کردن مبلغ اجباری است";
+"Withdraw.warning"                                            = "کلیه درخواست ها به صورت پایا به حساب شما منتقل خواهد شد. لطفا به زمانبندی پرداختی سیستم پایا بانکی توجه داشته باشید.";
+"Withdraw.accept"                                             = "تایید برداشت";
+"Withdraw.amountReceived"                                     = "مقدار دریافتی";
+"Withdraw.wage"                                               = "کارمزد";
+"Withdraw.valueWirhdraw"                                      = "مبلغ برداشت (تومان)";
+"Withdraw.destinationAccount"                                 = "شماره حساب مقصد";
+"Withdraw.balance"                                            = "موجودی قابل برداشت";
+"Withdraw.rialWithdraw"                                       = "برداشت ریالی";
+"Withdraw.acceptText"                                         = "لطفا جهت تایید برداشت کد ارسال شده از طریق ایمیل یا پیامک را وارد نمایید";
+"Withdraw.acceptCode"                                         = "کد تایید";
+"Withdraw.googleCode"                                         = "کد دو عاملی گوگل";
+"Withdraw.pleaseFillTheVerifyCode"                            = "لطفا کد تایید را وارد کنید";
+"Withdraw.pleaseFillTheWithdrawAmount"                        = "لطفا مبلغ را وارد کنید";
+"Withdraw.pleaseFillTheGoogleAuthCode"                        = "لطفا کد دو عاملی گوگل را وارد نمایید!";
+"Withdraw.withdrawValue"                                      = "میزان برداشت";
+"Withdraw.withdrawableInventory"                              = "موجودی قابل برداشت";
+"Withdraw.lowestWithdrawalRate"                               = "کمترین میزان برداشت";
+"Withdraw.destinationWalletAddress"                           = "آدرس کیف پول مقصد";
+"Withdraw.uncorrectAddress"                                   = "وارد کردن آدرس نادرست ممکن است منجر به از دست رفتن منابع مالی شما شود!";
+"Withdraw.descriptionWithdrawDigitalCurrency"                 = "در صورت تمایل به برداشت موجودی کیف پول های خود درخواست خود را اینجا ثبت نمایید. درخواست ها به صورت دستی تایید و سپس پرداخت خواهد شد کارمزدهای معمول انتقال از برداشت کسر خواهد شد در صورتی که آدرس مقصد متعلق به کاربران او ام پی فینکس باشد انتقال به صورت مستقیم و آنی انجام می شود و کارمزد صفر می باشد.";
+"Withdraw.transferFee"                                        = "کارمزد انتقال";
+"Withdraw.descriptionTransferFee"                             = "کارمزد انتقال مربوط به ثبت تراکنش در شبکه ی بوده و او ام پی فینکس در آن ذینفع نیست.";
+"Withdraw.saveWalletAddress"                                 = "افزودن آدرس به موارد پرکاربرد";
+"Withdraw.createRequestWithdraw"                              = "ایجاد درخواست برداشت";
+"Withdraw.tagOrMemo"                                          = "تگ/ممو";
+"Withdraw.activeTag"                                          = "فعال";
+"Withdraw.notActiveTag"                                       = "غیر فعال";
+"Withdraw.descriptionTag"                                     = "علاوه بر آدرس نیاز به وارد کردن یک تگ یا ممو تولید شده برای شما می باشد.";
+"Withdraw.pleaseFillWithdrawValue"                            = "لطفا میزان برداشت را وارد نمایید!";
+"Withdraw.pleaseFillAddressWallet"                            = "لطفا آدرس کیف پول مقصد را وارد نمایید!";
+"Withdraw.pleaseFillTag"                                      = "لطفا ممو/تگ کیف پول مقصد را وارد نمایید!";
+//MARK: - DepositHistory
+"DepositHistory.successful"                                   = "موفق";
+"DepositHistory.unsuccessful"                                 = "ناموفق";
+//MARK: - WithdrawHistory
+"WithdrawHistory.titleNavigation"                             = "تاریخچه برداشت";
+"WithdrawHistory.processing"                                  = "در حال انجام";
+"WithdrawHistory.pending"                                     = "در حال بررسی";
+//MARK: - JailbrokenViewController
+"JailbrokenViewController.appWillTerminate"                   = "امکان استفاده از این اپلیکیشن بر روی دستگاه های Jail break شده وجود ندارد!";
+//MARK: - Constants
+"continue"              = "ادامه";
+"confirm"               = "تایید";
+"chooseOne"             = "انتخاب کنید";
+"confirmed"             = "تایید شده";
+"rejected"              = "رد شده";
+"pending"               = "درحال بررسی";
+"notStarted"            = "آغاز نشده";
+"undefined"             = "نامشخص";
+"buy"                   = "خرید";
+"sell"                  = "فروش";
+"amount"                = "مقدار";
+"unitPrice"             = "قیمت واحد";
+"total"                 = "مجموع";
+"search"                = "جستجو";
+"deposit"               = "واریز";
+"withdraw"              = "برداشت";
+"dollar"                = " دلار";
+"save"                  = "ذخیره";
+"savedToClipboard"      = "ذخیره در Clipboard";
+"asRial"                = "ریالی";
+"transferToBank"        = "انتقال به درگاه بانک";
+"successfulTransaction" = "تراکنش موفق";
+"failedTransaction"     = "تراکنش ناموفق";
+"history"               = "تاریخچه";
+"toman"                 =  "تومان ";
+"coming soon"           = "به زودی ...";
+"ok"                    = "باشه";
+
+//MARK: - NETWORK ERRORS
+"badRequest"            = "متاسفانه دسترسی به اینترنت در حال حاضر ممکن نیست. لطفا وضعیت اینترنت خود را بررسی کنید.";
+"unableToDecode"        = "داده دریافتی خراب است";
+"internalServerError"   = "مشکلی سمت سرور رخ داده است لطفا پس از چند لحظه مجدد تلاش کنید";
+"unauthorized"          = "لطفا وارد حساب کاربری خود شوید";
+"requestBuildFailed"    = "خطای سیستمی رخ داده است لطفا مجدد تلاش کنید";
+"noInternetConnection"  = "متاسفانه دسترسی به اینترنت در حال حاضر ممکن نیست. لطفا وضعیت اینترنت خود را بررسی کنید.";
+
+//MARK: - Wallet Address ViewController
+"WalletsAddressViewController.navTitle"                     = "آدرس های شما";
+"WalletsAddressViewController.addNewAddress"                = "ایجاد آدرس جدید";
+//MARK: - New Wallet Address View
+"NewWalletAddressView.nameTitle"                            = "انتخاب نام";
+"NewWalletAddressView.namePlaceholder"                      = "(اختیاری)";
+"NewWalletAddressView.addressTitle"                         = "آدرس";
+"NewWalletAddressView.addAddress"                           = "آدرس جدید";
+"NewWalletAddressView.editAddress"                          = "ذخیره تغییرات";
+"NewWalletAddressView.tokenTitle"                           = "توکن ارز";
+
+//MARK: - Change Language View Controller
+"ChangeLanguageViewController.titleLabel"                   = "زبان دلخواه را انتخاب کنید";
+"ChangeLanguageViewController.SelectingLanguageButton"      = "انتخاب زبان";
